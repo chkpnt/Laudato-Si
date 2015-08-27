@@ -1,3 +1,5 @@
+E-Book der [deutschen Übersetzung](http://w2.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) von Papst Franziskus’ [Laudato Si’](http://w2.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html).
+
 # Impressum
 
 Für den Text der Enzyklika:  
